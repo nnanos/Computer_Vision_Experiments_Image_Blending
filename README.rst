@@ -1,5 +1,5 @@
 =======================================================================
-Experiments in Music Source Separation
+Computer Vision Experiments
 =======================================================================
 
 Description
