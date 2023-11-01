@@ -42,7 +42,7 @@ scaling transformations except that in this case we do not reduce the number of
 of our samples on the grid.
 
 
-... Image:: /Documentation_Images/Pyramid_funcs.png
+.. Image:: /Documentation_Images/Pyramid_funcs.png
 
 
 
@@ -55,13 +55,14 @@ Experiments
        * orange_apple_experiment
 
           **ORANGE PYRAMID:**
-          ... Image:: /Documentation_Images/Orange_Apple/Orange_Pyr.png
+
+         .. Image:: /Documentation_Images/Orange_Apple/Orange_Pyr.png
 
           **APPLE PYRAMID:**
-          ... Image:: /Documentation_Images/Orange_Apple/Apple_Pyr.png
+          .. Image:: /Documentation_Images/Orange_Apple/Apple_Pyr.png
 
           **BLENDED PYRAMID:**
-          ... Image:: /Documentation_Images/Orange_Apple/B_Pyr.png
+          .. Image:: /Documentation_Images/Orange_Apple/B_Pyr.png
 
          The success of the method lies in having the desired image
          (the blend of the two images with smooth transition) in high
@@ -82,7 +83,7 @@ Experiments
            filter length = 20x20, Variance=10
 
               **Woman_Hand blending result:**
-              ... Image:: /Documentation_Images/Woman_Hand/Woman_Hand_result.png
+              .. Image:: /Documentation_Images/Woman_Hand/Woman_Hand_result.png
 
           The mask is found after first finding the exact location (square)
           which contains the eye in the woman image. What mattered a lot was
@@ -130,7 +131,7 @@ Experiments
                filter length = 31x31, Variance=30              
 
               **Custom_Blending result:**
-              ... Image:: /Documentation_Images/Custom_Blending/Custom_Blending_res.png
+              .. Image:: /Documentation_Images/Custom_Blending/Custom_Blending_res.png
 
 
 * OBJECT RECOGNITION
