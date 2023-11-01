@@ -146,8 +146,23 @@ And the following result is produced for parameters :
 Reproduce the Experiments
 ============
 
+Firstly we should mention that you have to instal all the requiered python libraries and 
+to load correctly the images that provided in this repo in order for the code to work.
+To reproduce the experiments you have to execute the following commands in each case: 
+
+* orange_apple_experiment ::
+
+   python orange_apple_experiment.py
 
 
+* woman_hand_experiment ::
+
+   python woman_hand_experiment.py
+
+
+* custom_blending_experiment ::
+   
+   python custom_blending_experiment.py
 
 
 References
