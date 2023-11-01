@@ -1,5 +1,5 @@
 =======================================================================
-Computer Vision Experiments with Pyramids
+Computer Vision Image Blending Experiments with Pyramids
 =======================================================================
 
 
@@ -143,6 +143,13 @@ And the following result is produced for parameters :
 **Custom_Blending result:**
 
 .. Image:: /Documentation_Images/Custom_Blending/Custom_Blending_res.png
+
+
+
+Reproduce the Experiments
+============
+
+
 
 
 
