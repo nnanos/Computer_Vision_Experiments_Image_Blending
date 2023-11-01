@@ -2,9 +2,6 @@
 Computer Vision Image Blending Experiments with Pyramids
 =======================================================================
 
-
-Repo Description 
-============
 In this repo I am implementing Image pyramids based on the References bibliography 
 and then I am doing some Image blending Experiments with the pyramids method.
 
